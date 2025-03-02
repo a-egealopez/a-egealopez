@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologías y herramientas  
 - **Lenguajes**: Java, Python, C++, C 
 - **Bases de datos**: SQL, H2
-- **Otras herramientas**: MATLAB/Octave, Xpress
+- **Otras herramientas**: MATLAB/Octave, Xpress, LaTeX
 
 ## 📊 Estadísticas de GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandroegea&show_icons=true&theme=dark)  
