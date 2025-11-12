@@ -10,6 +10,6 @@
 - **Otras herramientas**: MATLAB/Octave, Xpress, LaTeX
 
 ## 📫 Contacto  
-📧 alejandroegea2003@email.com  
+📧 alej.egealopez@gmail.com  
 
 ¡Siempre abierto a aprender y colaborar en nuevos proyectos! 🚀
